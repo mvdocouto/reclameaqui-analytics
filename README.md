@@ -2,4 +2,4 @@
 
 ## Sobre o projeto
 
-O Usuario podera consultar as recelamções existente na base do reclame Aqui através de uma palavra chave. Além das reclamações vinculadas ao termo abordado o sitemoa retirna algumas estatisticas.
+O Usuário podera consultar as reclamações existentes na base do Reclame Aqui através de uma palavra chave. Além das reclamações vinculadas ao termo abordado o sitema retorna algumas estatisticas.
